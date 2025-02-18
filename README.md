@@ -71,4 +71,4 @@ For another version of standardization to have a mean of 0 and standard deviatio
 - The main reason is to ensure each animal has received adequate attention by the assigned caretakers for promising animal welfare.
 
 ### ER Diagram
-![Alt text]([https://github.com/username/repo/assets/image.png](https://github.com/BockmonClassroom/hw4-yuan-yh/blob/main/er.jpeg))
+![er](er.jpeg)
