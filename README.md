@@ -26,7 +26,7 @@ For another version of standardization to have a mean of 0 and standard deviatio
 1. **Animal**
 - `Animal_ID` (Primary Key)
 - `Name`
-- `Gender`
+- `Gender` (Male, Female, or Unknown)
 - `Age`
 - `Species`
 - `Enclosure_ID` (Foreign Key referencing Enclosure)
